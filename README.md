@@ -14,6 +14,9 @@ This is a simple and beginner-friendly Unit Converter App built using **Python**
 - Clean and minimal interface  
 - Handles temperature conversions with custom logic
 
+- ## 🔗 Live App
+Try it here: [Streamlit App](https://simple-unit-converter-2exkprjphkmf8mf8ofqieu.streamlit.app/)
+
 ## 🔧 How to Run Locally
 
 ```bash
